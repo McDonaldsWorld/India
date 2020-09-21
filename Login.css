@@ -1,0 +1,62 @@
+#LoginLoginButton,#LoginRegisterButton{
+border: 2px solid #f9c49a;
+color: purple;
+background-color: rgba(232, 228, 225,0.1);
+font-family:sans-serif;
+letter-spacing: 2px;
+font-size:20px;
+text-align: center;
+border-radius: 30px;
+width: 130px;
+}
+
+form{
+  margin-left: 35%;
+  margin-right: 35%;
+  width:30%;
+
+}
+
+#LoginEmailId,#LoginPassword{
+  background-color:rgb(129, 0, 0,0.2);
+}
+#LoginRegisterButton:hover {
+  background-color: rgba(0,0,0,0.85);
+  color:#2ec1ac;
+
+}
+
+td{
+  padding:20px;
+  color:#e5e5e5;
+}
+
+
+
+h1{
+  font-size:150px ;
+  font-family: cursive ;
+  color: #56556e ;
+}
+
+#LoginLoginButton:hover {
+  background-color: rgba(0,0,0,0.85);
+  color:#2ec1ac;
+
+}
+
+body{
+background: url("https://www.rdolson.com/wp-content/uploads/2014/03/Westin-Gaslamp_4.jpg" );
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+
+
+
+.form{
+ font-size:24px;
+ font-family:monospace;
+
+}
